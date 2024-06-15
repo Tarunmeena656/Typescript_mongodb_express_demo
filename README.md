@@ -26,7 +26,7 @@ To run MINI_INSTA (ProjectX) locally:
 
 1. Clone the repository:
 
-git clone https://github.com/your/repository.git
+git clone [https://github.com/your/repository.git](https://github.com/Tarunmeena656/Typescript_mongodb_express_demo.git)
 
 
 
